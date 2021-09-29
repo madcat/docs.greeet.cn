@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://madcat.github.io/docs.greeet.cn/sitemap.xml.gz
+Sitemap: https://docs.greeet.cn/sitemap.xml.gz
